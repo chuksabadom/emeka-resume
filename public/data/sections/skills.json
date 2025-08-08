@@ -1,0 +1,503 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lightbulb",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Software Engineering",
+                            "description": "I can design and develop software solutions that meet your needs!",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Software Engineering",
+                            "description": "Ik kan softwareoplossingen ontwerpen en ontwikkelen die aan jouw behoeften voldoen!",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Database Management",
+                            "description": "I can handle your data effectively and efficiently!",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Databasebeheer",
+                            "description": "Ik kan je gegevens effectief en efficiënt beheren!",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-window-restore",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "REST APIs",
+                            "description": "I can design and implement RESTful APIs that are easy to use and maintain!",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "REST APIs",
+                            "description": "Ik kan RESTful API's ontwerpen en implementeren die gemakkelijk te gebruiken en te onerhouden zijn!",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lock",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Information Security",
+                            "description": "I can build secure systems that protect your data!",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Informatiebeveiliging",
+                            "description": "Ik kan veilige systemen bouwen die je gegevens beschermen!",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Development",
+                            "description": "I can build web applications that are fast and reliable!",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Web Development",
+                            "description": "Ik kan webapplicaties bouwen die snel en betrouwbaar zijn!",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-cloud",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Computing",
+                            "description": "I can deploy and manage applications in the cloud!",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Cloud Computing",
+                            "description": "Ik kan applicaties implementeren en beheren in de cloud!",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "nl": {"title": "Backend Stack"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-java",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "text": "A seasoned Oracle certified Java developer with a strong understanding of its ecosystem.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Een ervaren Oracle gecertificeerde Java-ontwikkelaar met een sterke kennis van het ecosysteem."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 3},
+                    "img": "images/pictures/kotlin.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Kotlin",
+                            "text": "I can build scalable network applications using Kotlin.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Ik kan schaalbare netwerkapplicaties bouwen met Kotlin."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Database",
+                            "text": "I have a solid understanding of SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Ik heb een solide begrip van SQL- en NoSQL-databases, waaronder MySQL, PostgreSQL en MongoDB."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": "images/pictures/springboot.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Springboot",
+                            "text": "Complete understanding of Spring for building scalable applications.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Volledige begrip van Spring voor het bouwen van schaalbare applicaties."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2022, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-docker",
+                    "fallbackFaIconColor": null,
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "text": "Working knowledge of Docker for containerization.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Werkende kennis van Docker voor containerisatie."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2022, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-cloud",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Cloud services",
+                            "text": "I can deploy and manage applications on AWS and Azure.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Ik kan applicaties implementeren en beheren op AWS en Azure."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2018, "month": 11},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "text": "Complete understanding of Git for version control and collaboration.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Volledige begrip van Git voor versiebeheer en samenwerking."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "nl": {"title": "Frontend Stack"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 9},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "text": "I am proficient in HTML5 for building structured web pages.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Ik ben bedreven in HTML5 voor het bouwen van gestructureerde webpagina's."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "text": "I can create responsive and visually appealing designs using CSS3.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Ik kan responsieve en visueel aantrekkelijke ontwerpen maken met CSS3."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2023, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "text": "Fair usage of JavaScript ES6+ for dynamic and interactive web applications.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Redelijke kennis van JavaScript ES6+ voor dynamische en interactieve webapplicaties."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2024, "month": 6},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "percentage": 55,
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "text": "Reasonable understanding of React for building modern web applications.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Redelijke kennis van React voor het bouwen van moderne webapplicaties."
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2021, "month": 2},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-bootstrap",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap 5+",
+                            "text": "Good understanding of Bootstrap for responsive design.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Goede kennis van Bootstrap voor responsief ontwerp."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "date": {"year": 2024, "month": 5},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": 45,
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js",
+                            "text": "Basic understanding of Vue.js for building interactive user interfaces.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Basiskennis van Vue.js voor het bouwen van interactieve gebruikersinterfaces."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "nl": {"title": "Talen"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "text": "Fluent English speaker with a solid grasp of technical vocabulary and the ability to communicate complex ideas clearly and confidently in professional tech settings.",
+                            "level": "Fluent"
+                        },
+                        "nl": {
+                            "title": "Engels",
+                            "text": "Vloeiende Engelse spreker met een solide beheersing van technische terminologie en het vermogen om complexe ideeën duidelijk en zelfverzekerd te communiceren in professionele technische omgevingen.",
+                            "level": "Vloeiend"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/es.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Dutch",
+                            "text": "Intermediate Dutch speaker with a growing command of technical vocabulary and the ability to communicate effectively in collaborative tech environments.",
+                            "level": "Intermediate"
+                        },
+                        "nl": {
+                            "title": "Nederlands",
+                            "text": "Gemiddelde Nederlandse spreker met een groeiende beheersing van technische terminologie en het vermogen om effectief te communiceren in samenwerkende technische omgevingen.",
+                            "level": "Gemiddeld"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/pictures/ng.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Igbo",
+                            "text": "Native speaker with a strong command of technical vocabulary and the ability to communicate complex concepts clearly and effectively in a collaborative tech environment.",
+                            "level": "Native"
+                        },
+                        "nl": {
+                            "title": "Igbo",
+                            "text": "Moedertaalspreker met een sterke beheersing van technische terminologie en het vermogen om complexe concepten duidelijk en effectief te communiceren in een samenwerkende technische omgeving.",
+                            "level": "Moedertaal"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

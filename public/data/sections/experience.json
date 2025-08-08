@@ -1,0 +1,155 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2011, "month": 9},
+                    "dateEnd": {"year": 2017, "month": 9},
+                    "img": "images/places/zenith-bank.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Operations Staff",
+                            "description": "Worked in the operations department, managing daily banking transactions and ensuring compliance with financial regulations. Developed skills in customer service and financial operations.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Managed daily banking transactions and customer inquiries.",
+                                    "Ensured compliance with financial regulations and internal policies.",
+                                    "Assisted in the development of operational procedures to improve efficiency.",
+                                    "Collaborated with team members to enhance customer service quality."
+                                ]
+                            },
+                            "province": "Port Harcourt",
+                            "country": "Nigeria",
+                            "institution": "Zenith Bank",
+                            "tags": ["Finance", "Banking", "Operations"]
+                        },
+
+                        "nl": {
+                            "title": "Operations Medewerker",
+                            "description": "Werkte op de afdeling operaties, beheerde dagelijkse banktransacties en zorgde voor naleving van financiële regelgeving. Ontwikkelde vaardigheden in klantenservice en financiële operaties.",
+                            "list": {
+                                "title": "Belangrijkste Verantwoordelijkheden",
+                                "items": [
+                                    "Beheerde dagelijkse banktransacties en klantvragen.",
+                                    "Zorgde voor naleving van financiële regelgeving en interne beleidslijnen.",
+                                    "Assisteerde bij de ontwikkeling van operationele procedures om de efficiëntie te verbeteren.",
+                                    "Samenwerkte met teamleden om de kwaliteit van de klantenservice te verbeteren."
+                                ]
+                            },
+                            "province": "Port Harcourt",
+                            "country": "Nigeria",
+                            "institution": "Zenith Bank",
+                            "tags": ["Financiën", "Bankieren", "Operaties"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 8},
+                    "dateEnd": {"year": 2022, "month": 9},
+                    "img": "images/places/keylane-bv.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Software Engineer",
+                            "description": "Worked as part of a team that designed and developed the Business Intelligence platform for Keylane, focusing on data analytics and visualization to enhance decision-making processes.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Developed and maintained software applications using <strong>Java</strong> and <strong>Spring Boot</strong>.",
+                                    "Implemented data analytics solutions using <strong>Cognos</strong> and <strong>SQL</strong>.",
+                                    "Collaborated with cross-functional teams to gather requirements and deliver high-quality software.",
+                                    "Participated in code reviews and contributed to the improvement of development processes."
+                                ]
+                            },
+                            "province": "Utrecht",
+                            "country": "Nigeria",
+                            "institution": "Keylane BV",
+                            "tags": ["Java", "Relational DB", "Maven", "Gradle", "Cognos"]
+                        },
+
+                        "nl": {
+                            "title": "Software Engineer",
+                            "description": "Werkte als onderdeel van een team dat het Business Intelligence-platform voor Keylane ontwierp en ontwikkelde, met de focus op data-analyse en visualisatie om besluitvormingsprocessen te verbeteren.",
+                            "list": {
+                                "title": "Belangrijkste Verantwoordelijkheden:",
+                                "items": [
+                                    "Ontwikkelde en onderhoud softwareapplicaties met <strong>Java</strong> en <strong>Spring Boot</strong>.",
+                                    "Implementeerde data-analyseoplossingen met <strong>Cognos</strong> en <strong>SQL</strong>.",
+                                    "Samenwerkte met cross-functionele teams om vereisten te verzamelen en hoogwaardige software te leveren.",
+                                    "Deelgenomen aan code reviews en bijgedragen aan de verbetering van ontwikkelingsprocessen."
+                                ]
+                            },
+                            "province": "Utrecht",
+                            "country": "Nederland",
+                            "institution": "Keylane BV",
+                            "tags": ["Java", "Relationele DB", "Maven", "Gradle", "Cognos"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/places/and-digital.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Senior Software Engineer",
+                            "description": "Worked as a Senior Software Engineer at AND Digital, leading the development of scalable software solutions for various clients. Focused on cloud-native applications and microservices architecture. Some clients include:<strong>ABN AMRO</strong>, <strong>SAP-SIGNAVIO</strong>, and <strong>Picnic</strong>.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Led the design and development of <strong>cloud-native applications</strong> using <strong>Java</strong> and <strong>Spring Boot</strong>.",
+                                    "Implemented <strong>microservices architecture</strong> to enhance scalability and maintainability.",
+                                    "Collaborated with clients to understand their requirements and deliver tailored software solutions.",
+                                    "Mentored junior developers and conducted code reviews to ensure code quality."
+                                ]
+                            },
+                            "province": "Rotterdam",
+                            "country": "Netherlands",
+                            "institution": "Apple",
+                            "tags": ["Java", "Kotlin", "AWS", "Azure", "Software Development", "Database Management"]
+                        },
+
+                        "nl": {
+                            "title": "Senior Software Engineer",
+                            "description": "Werkte als Senior Software Engineer bij AND Digital, leidde de ontwikkeling van schaalbare softwareoplossingen voor verschillende klanten. Focus op cloud-native applicaties en microservices-architectuur. Enkele klanten zijn: <strong>ABN AMRO</strong>, <strong>SAP-SIGNAVIO</strong>, en <strong>Picnic</strong>.",
+                            "list": {
+                                "title": "Belangrijkste Verantwoordelijkheden:",
+                                "items": [
+                                    "Leidde het ontwerp en de ontwikkeling van <strong>cloud-native applicaties</strong> met <strong>Java</strong> en <strong>Spring Boot</strong>.",
+                                    "Implementeerde <strong>microservices-architectuur</strong> om schaalbaarheid en onderhoudbaarheid te verbeteren.",
+                                    "Samenwerkte met klanten om hun vereisten te begrijpen en op maat gemaakte softwareoplossingen te leveren.",
+                                    "Begeleidde junior ontwikkelaars en voerde code reviews uit om de codekwaliteit te waarborgen."
+                                ]
+                            },
+                            "province": "Rotterdam",
+                            "country": "Nederland",
+                            "institution": "Apple",
+                            "tags": ["Java", "Kotlin", "AWS", "Azure", "Softwareontwikkeling", "Databasebeheer"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

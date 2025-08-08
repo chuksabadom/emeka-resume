@@ -1,0 +1,256 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": null},
+                "nl": {"title": null}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#FF6384",
+                    "percentage": 24,
+                    "locales": {
+                        "en": {
+                            "title": "Family Time",
+                            "description": "Time spent with cherished loved ones.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Familietijd",
+                            "description": "Tijd doorgebracht met dierbare geliefden.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-tasks",
+                    "fallbackFaIconColor": "#36A2EB",
+                    "percentage": 32,
+                    "locales": {
+                        "en": {
+                            "title": "My Projects",
+                            "description": "Pursuing my creative endeavors.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Mijn Projecten",
+                            "description": "Het nastreven van mijn creatieve inspanningen.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-couch",
+                    "fallbackFaIconColor": "#FFCD56",
+                    "percentage": 11,
+                    "locales": {
+                        "en": {
+                            "title": "Relaxing",
+                            "description": "Being lazy and proud of it :)",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Ontspannen",
+                            "description": "Lui zijn en er trots op zijn :)",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book",
+                    "fallbackFaIconColor": "#C5B0FF",
+                    "percentage": 11,
+                    "locales": {
+                        "en": {
+                            "title": "Studying",
+                            "description": "Embarking on a continuous journey of learning.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Studeren",
+                            "description": "Een continue reis van leren beginnen.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dumbbell",
+                    "fallbackFaIconColor": "#8EE3C5",
+                    "percentage": 22,
+                    "locales": {
+                        "en": {
+                            "title": "Exercising",
+                            "description": "Dedicating time to physical well-being.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Oefenen",
+                            "description": "Tijd besteden aan fysieke gezondheid.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Side pursuits"
+                },
+                "nl": {
+                    "title": "Zij-ondernemingen"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-keyboard",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programming",
+                            "description": "Exploring code, algorithms, and building software solutions for real-world challenges.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Programmeren",
+                            "description": "Verkennen van code, algoritmen en het bouwen van softwareoplossingen voor echte uitdagingen.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-music",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Music",
+                            "description": "Playing instruments, dancing to the harmony of diverse musical genres.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Muziek",
+                            "description": "Instrumenten bespelen, dansen op de harmonie van diverse muziekgenres.",
+                            "level": null
+                        }
+                    }
+                },
+
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-desktop",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Development",
+                            "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Front-End Ontwikkeling",
+                            "description": "Het creëren van interactieve webinterfaces met moderne technologieën voor naadloze gebruikerservaringen.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Back-End Development",
+                            "description": "Building robust server-side applications and APIs to power web solutions.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Back-End Ontwikkeling",
+                            "description": "Het bouwen van robuuste server-side applicaties en API's om weboplossingen aan te drijven.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-camera",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photography",
+                            "description": "Capturing moments and creating visual stories through photography.",
+                            "level": null
+                        },
+                        "nl": {
+                            "title": "Fotografie",
+                            "description": "Het vastleggen van momenten en het creëren van visuele verhalen door middel van fotografie.",
+                            "level": null
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}
