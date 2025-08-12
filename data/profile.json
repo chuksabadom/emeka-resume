@@ -1,0 +1,82 @@
+{
+    "name": "Chukwuemeka Abadom",
+    "profilePictureUrl": "images/pictures/pfp.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://chuksabadom.github.io/nerdy-resume-profile/#about'>chuksabadom</a></strong>",
+            "role": "Java Backend Developer"
+        },
+
+        "nl": {
+            "credits": "Ontworpen door <strong><a href='https://chuksabadom.github.io/nerdy-resume-profile/#about'>chuksabadom</a></strong>",
+            "role": "Java Backend Ontwikkelaar"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Louis de funesstraat 23, 1325GA",
+                    "valueShort": "Almere – NL"
+                },
+                "nl": {
+                    "value": "Louis de funesstraat 23, 1325GA",
+                    "valueShort": "Almere – NL"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "chuksabadom@gmail.com",
+            "valueShort": "chuksabadom@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:chuksabadom@gmail.com"
+        },
+
+        {
+            "id": "facebook",
+            "value": "Chukwuemeka Abadom",
+            "valueShort": "C. Abadom",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@chuksabadom.official",
+            "valueShort": "@chuksabadom.official",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/chuksabadom"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@chief.Emeka.official",
+            "valueShort": "@chief.Emeka.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@chukwemeka.abadom.official",
+            "valueShort": "@chukwemeka.abadom.official",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/chukwuemeka-abadom-6b9b0427/"
+        },
+
+        {
+            "id": "phone",
+            "value": "+31 (68) 512-0873",
+            "valueShort": "(068) 512-0873",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:0685120873"
+        }
+    ]
+}

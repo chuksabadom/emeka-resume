@@ -1,0 +1,114 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2002, "month": 9},
+                    "dateEnd": {"year": 2007, "month": 9},
+                    "img": "images/places/esut.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's in Materials and Metallurgical Engineering",
+                            "description": "Earned a Bachelor's degree in Materials and Metallurgical Engineering, focusing on materials science, metallurgy, and engineering principles. Developed a strong foundation in engineering concepts and practical applications through hands-on projects and research.",
+                            "province": "Enugu",
+                            "country": "Nigeria",
+                            "institution": "Enugu State University of Science and Technology",
+                            "tags": []
+                        },
+                        "nl": {
+                            "title": "Bachelor in Materialen en Metallurgische Technologie",
+                            "description": "Behaalde een bachelor in Materialen en Metallurgische Technologie, met focus op materiaalkunde, metallurgie en technische principes. Ontwikkelde een sterke basis in technische concepten en praktische toepassingen door middel van hands-on projecten en onderzoek.",
+                            "province": "Enugu",
+                            "country": "Nigeria",
+                            "institution": "Enugu State University of Science and Technology",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2010, "month": 10},
+                    "dateEnd": {"year": 2015, "month": 5},
+                    "img": "images/places/futo.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Post Graduate Diploma in Information and Management Technology",
+                            "description": "Earned a Post Graduate Diploma in Information and Management Technology, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
+                            "province": "Owerri",
+                            "country": "Nigeria",
+                            "institution": "Federal University of Technology Owerri",
+                            "tags": ["Software Development",
+                                "Web Development",
+                                "Algorithms",
+                                "Data Structures"]
+                        },
+                        "nl": {
+                            "title": "Post Graduate Diploma in Informatie- en Managementtechnologie",
+                            "description": "Behaalde een [[postgraduate diploma in Informatie- en Managementtechnologie]], met focus op algoritmen, datastructuren, software engineering en webontwikkeling. Verworven praktische ervaring door middel van verschillende programmeerprojecten, coding boot camps en veel samenwerkingsgerichte softwareontwikkelingsactiviteiten.",
+                            "province": "Owerri",
+                            "country": "Nigeria",
+                            "institution": "Federal University of Technology Owerri",
+                            "tags": ["Software Development",
+                                "Web Development",
+                                "Algorithms",
+                                "Data Structures"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2018, "month": 9},
+                    "img": "images/places/uoa.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Master's in Information Technology",
+                            "description": "Completed a [[Master's degree in Software Engineering]], specializing in software development methodologies, system architecture, and project management. Engaged in advanced coursework and collaborative projects to enhance software engineering skills.",
+                            "province": "Aberdeen",
+                            "country": "United Kingdom",
+                            "institution": "University of Aberdeen",
+                            "tags": [
+                                "Software Engineering",
+                                "Database Management",
+                                "Agile Methodologies",
+                                "Cybersecurity"
+                            ]
+                        },
+                        "nl": {
+                            "title": "{{Master}} in Software Engineering",
+                            "description": "Voltooide een [[master in Software Engineering]], met specialisatie in softwareontwikkelingsmethodologieën, systeemarchitectuur en projectmanagement. Betrokken bij geavanceerde cursussen en samenwerkingsprojecten om software-engineeringvaardigheden te verbeteren.",
+                            "province": "Owerri",
+                            "country": "Nigeria",
+                            "institution": "Federal University of Technology Owerri",
+                            "tags": [
+                                "Software Engineering",
+                                "Database Management",
+                                "Agile Methodologies",
+                                "Cybersecurity"
+                            ]
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "SaaS",
+                    "category_social": "Web",
+                    "category_utilities": "APIs"
+                },
+
+                "nl": {
+                    "title": null,
+                    "category_all": "Alle",
+                    "category_productivity": "SaaS",
+                    "category_social": "Web",
+                    "category_utilities": "APIs"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/axon.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "SaaS",
+                    "locales": {
+                        "en": {
+                            "title": "Axon",
+                            "description": "<b>Axon</b> is a cutting-edge SaaS platform designed to revolutionize the way businesses manage their data. With its powerful analytics tools, intuitive dashboards, and seamless integration capabilities, Axon empowers organizations to make data-driven decisions with confidence. Whether you're in finance, healthcare, or any industry that relies on data, Axon provides the insights you need to optimize operations and drive growth.",
+                            "tags": ["Insurance", "SaaS", "Business Intelligence", "Data Analysis"]
+                        },
+                        "nl": {
+                            "description": "<b>Axon</b> is een geavanceerd SaaS-platform dat is ontworpen om de manier waarop bedrijven hun gegevens beheren te revolutioneren. Met krachtige analysetools, intuïtieve dashboards en naadloze integratiemogelijkheden stelt Axon organisaties in staat om met vertrouwen datagestuurde beslissingen te nemen. Of je nu in de financiële sector, de gezondheidszorg of een andere sector werkt die afhankelijk is van gegevens, Axon biedt de inzichten die je nodig hebt om operaties te optimaliseren en groei te stimuleren.",
+                            "tags": ["Verzekering", "SaaS", "Business Intelligence", "Data-analyse"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/abn-amro.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "SaaS",
+                    "locales": {
+                        "en": {
+                            "title": "ABN AMRO Project",
+                            "description": "Contributed to refactoring and migrating a Java-based SaaS platform for solar panel management and Identipay, improving performance and scalability as part of the ABN AMRO bank migration project.",
+                            "tags": ["Java", "Azure", "RDS", "SaaS", "Spring boot", "Migration"]
+                        },
+                        "nl": {
+                            "description": "Bijgedragen aan het refactoren en migreren van een Java-gebaseerd SaaS-platform voor zonnepaneelbeheer en Identipay, waarbij de prestaties en schaalbaarheid zijn verbeterd als onderdeel van het ABN AMRO bankmigratieproject.",
+                            "tags": ["Java", "Azure", "RDS", "SaaS", "Spring boot", "Migratie"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "img": "images/portfolio/sap-logo.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "#7c4d91",
+                    "category": "SaaS",
+                    "locales": {
+                        "en": {
+                            "title": "SAP Process Management",
+                            "description": "Part of a team to built some features using <b>Java and Kotlin</b> for <b>SAP</b> process management tool that integrates with SAP systems to streamline business processes and enhance operational efficiency.",
+                            "tags": ["SAP", "Process management", "Java", "Kotlin", "Docker"]
+                        },
+                        "nl": {
+                            "title": "SAP Process Management",
+                            "description": "Part of a team to built some features using <b>Java and Kotlin</b> for <b>SAP</b> process management tool that integrates with SAP systems to streamline business processes and enhance operational efficiency.",
+                            "tags": ["SAP", "Process management", "Java", "Kotlin", "Docker"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-bowl-food",
+                    "fallbackFaIconColor": null,
+                    "category": "Web",
+                    "locales": {
+                        "en": {
+                            "title": "KokosPlace",
+                            "description": "An e-commerce website built with <b>React</b> and <b>Spring Boot</b>, featuring a modern design, secure payment processing, and a wide range of food products.",
+                            "tags": ["API", "REST", "Backend", "Java", "React", "Spring boot"]
+                        },
+                        "nl": {
+                            "description": "Een e-commerce website gebouwd met <b>React</b> en <b>Spring Boot</b>, met een modern ontwerp, veilige betalingsverwerking en een breed scala aan voedselproducten.",
+                            "tags": ["API", "REST", "Backend", "Java", "React", "Spring boot"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-virus",
+                    "fallbackFaIconColor": "#1c875b",
+                    "category": "APIs",
+                    "locales": {
+                        "en": {
+                            "title": "Coronavirus Tracker",
+                            "description": "An API build with Java for tracking corona virus during the pandemic</b>.",
+                            "tags": ["Java", "API", "Communication"]
+                        },
+                        "nl": {
+                            "description": "Een API gebouwd met Java voor het volgen van het coronavirus tijdens de pandemie.",
+                            "tags": ["Java", "API", "Communicatie"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 6,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-money-check-dollar",
+                    "fallbackFaIconColor": null,
+                    "category": "APIs",
+                    "locales": {
+                        "en": {
+                            "title": "Banking API",
+                            "description": "A <b>RESTful API</b> built with <b>Kotlin springboot</b>, designed for secure banking transactions and account management.",
+                            "tags": ["Kotlin", "RDS", "API", "Banking", "Spring boot"]
+                        },
+                        "nl": {
+                            "description": "Een <b>RESTful API</b> gebouwd met <b>Kotlin springboot</b>, ontworpen voor veilige banktransacties en accountbeheer.",
+                            "tags": ["Kotlin", "RDS", "API", "Bankieren", "Spring boot"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 7,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "category": "APIs",
+                    "locales": {
+                        "en": {
+                            "title": "School Management System",
+                            "description": "A comprehensive school management system built with <b>Java</b>, allowing users to <b>track budgets</b> and manage finances with interactive charts and insights.",
+                            "tags": ["Java", "Management", "Education"]
+                        },
+                        "nl": {
+                            "description": "Een uitgebreid schoolbeheersysteem gebouwd met <b>Java</b>, waarmee gebruikers <b>budgetten kunnen volgen</b> en financiën kunnen beheren met interactieve grafieken en inzichten.",
+                            "tags": ["Java", "Beheer", "Onderwijs"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 8,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-user",
+                    "fallbackFaIconColor": null,
+                    "category": "Web",
+                    "locales": {
+                        "en": {
+                            "title": "chuksabadom",
+                            "description": "A personal website built with <b>React</b> and <b>Bootstrap</b>, showcasing my portfolio, blog, and contact information.",
+                            "tags": ["React", "Bootstrap", "Email-JS", "Vite"]
+                        },
+                        "nl": {
+                            "description": "Een persoonlijke website gebouwd met <b>React</b> en <b>Bootstrap</b>, met een portfolio, blog en contactinformatie.",
+                            "tags": ["React", "Bootstrap", "Email-JS", "Vite"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

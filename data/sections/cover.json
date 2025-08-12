@@ -1,0 +1,41 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I am a seasoned <strong>Java</strong> developer with <strong>over six 6 years</strong> of professional experience, specializing in backend development with a little foundation in frontend technologies. I have also worked extensively with Kotlin in production environments, contributing to robust and scalable systems.</p><p>This diverse technical background enables me to adapt seamlessly to a wide range of project requirements — from designing and implementing reliable APIs to optimizing system performance and supporting full-stack development initiatives."
+                        },
+
+                        "nl": {
+                            "description": "Ik ben een ervaren <strong>Java</strong>-ontwikkelaar met <strong>omeer dan 6 jaar</strong> professionele ervaring, gespecialiseerd in backend-ontwikkeling met een beetje basiskennis van frontend-technologieën. Ik heb ook uitgebreid gewerkt met Kotlin in productieomgevingen, wat heeft bijgedragen aan robuuste en schaalbare systemen.</p><p>Deze diverse technische achtergrond stelt me in staat om me naadloos aan te passen aan een breed scala aan projectvereisten — van het ontwerpen en implementeren van betrouwbare API's tot het optimaliseren van systeemprestaties en het ondersteunen van full-stack ontwikkelingsinitiatieven."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe in the power of technology to transform lives and drive progress. My passion lies in creating innovative solutions that not only meet the needs of today but also anticipate the challenges of tomorrow. I am committed to continuous learning and growth, always seeking new ways to enhance my skills and contribute to the tech community."
+                        },
+                        "nl": {
+                            "description": "Ik geloof in de kracht van technologie om levens te transformeren en vooruitgang te stimuleren. Mijn passie ligt in het creëren van innovatieve oplossingen die niet alleen voldoen aan de behoeften van vandaag, maar ook anticiperen op de uitdagingen van morgen. Ik ben toegewijd aan continue leren en groeien, altijd op zoek naar nieuwe manieren om mijn vaardigheden te verbeteren en bij te dragen aan de techgemeenschap."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

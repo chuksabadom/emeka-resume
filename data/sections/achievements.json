@@ -1,0 +1,257 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Awards"},
+                "nl": {"title": "Prijzen"}
+            },
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2003, "month": 9},
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Ocean Energy – Scholarship Award",
+                            "description": "Awarded a scholarship for my outstanding performance in the field of Engineering research during my undergraduate studies. This scholarship was granted based on my academic excellence and potential in contributing to renewable energy solutions.",
+                            "institution": "Enugu State University of Science and technology"
+                        },
+
+                        "nl": {
+                            "title": "Ocean Energy – Beurs Award",
+                            "description": "Een beurs toegekend voor mijn uitstekende prestaties op het gebied van ingenieurswetenschappen tijdens mijn bachelorstudie. Deze beurs werd toegekend op basis van mijn academische excellentie en potentieel om bij te dragen aan oplossingen voor hernieuwbare energie.",
+                            "institution": "Enugu State University of Science and technology"
+                        }
+                    },
+                    "links": []
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 3},
+                    "fallbackFaIcon": "fa-solid fa-briefcase",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Customer Delight Award – Europe",
+                            "description": "Recognized with the Customer Delight Award for my exceptional contributions to delivering outstanding customer experiences in software development projects.",
+                            "institution": "AND Digital"
+                        },
+
+                        "nl": {
+                            "title": "Klantenplezier Award – Europa",
+                            "description": "Erkend met de Klantenplezier Award voor mijn uitzonderlijke bijdragen aan het leveren van uitstekende klantbelevingen in softwareontwikkelingsprojecten.",
+                            "institution": "AND Digital"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://harvard.com", "stringKey": "view_more_info"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2017, "month": 11},
+                    "fallbackFaIcon": "fa-solid fa-bank",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Best Dressed staff – Portharcourt Region",
+                            "description": "Recognized as the {{Best Dressed Staff}} for my professional appearance and adherence to the company's dress code. This award was given during the annual staff appreciation event, highlighting my commitment to maintaining a professional image in the workplace.",
+                            "institution": "Zenith Bank Plc"
+                        },
+
+                        "es": {
+                            "title": "Best Dressed staff – Portharcourt Region",
+                            "description": "Erkend als de {{Best Dressed Staff}} voor mijn professionele uitstraling en naleving van de bedrijfsdressingcode. Deze prijs werd uitgereikt tijdens het jaarlijkse personeelswaarderingsevenement, waarbij mijn inzet voor het handhaven van een professionele uitstraling op de werkplek werd benadrukt.",
+                            "institution": "Zenith Bank Plc"
+                        }
+                    },
+                    "links": []
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"},
+                "nl": {"title": "Certificeringen"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 6},
+                    "fallbackFaIcon": "fa-brands fa-java",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "OCP – Oracle Certified Professional",
+                            "description": "Oracle Certified Developer – Professional",
+                            "institution": "Oracle Java"
+                        },
+
+                        "nl": {
+                            "title": "OCP – Oracle Certified Professional",
+                            "description": "Oracle Certified Developer – Professional",
+                            "institution": "Oracle Java"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.credly.com/badges/f26f4e3d-7416-4ea0-905c-997d26676e8f/linked_in", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "fallbackFaIcon": "fa-brands fa-java",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "OCA – Oracle Certified Associate",
+                            "description": "Oracle Certified Developer – Associate",
+                            "institution": "Oracle Java"
+                        },
+
+                        "nl": {
+                            "title": "OCA – Oracle Certified Associate",
+                            "description": "Oracle Certified Developer – Associate",
+                            "institution": "Oracle Java"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.credly.com/badges/f26f4e3d-7416-4ea0-905c-997d26676e8f/linked_in", "stringKey": "view_certification"}
+                    ]
+                },
+
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 12},
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "AWS Certified",
+                            "description": "AWS Certified – Cloud Practitioner",
+                            "institution": "AWS"
+                        },
+
+                        "nl": {
+                            "title": "AWS Certified",
+                            "description": "AWS Certified – Cloud Practitioner",
+                            "institution": "AWS"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://google.com", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2022, "month": 8},
+                    "faIcon": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Scrum Certified",
+                            "description": "Professional Scrum Master 1 – PSM1",
+                            "institution": "PSM.org"
+                        },
+
+                        "nl": {
+                            "title": "Scrum Gecertificeerd",
+                            "description": "PSM.org"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.credly.com/badges/782b4d8b-18bb-4e1d-b5f9-220cb216964a/linked_in_profile", "stringKey": "view_certification"}
+                    ]
+
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2020, "month": 6},
+                    "faIcon": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "DASA Devops",
+                            "description": "DASA DEVOPS Fundamentals",
+                            "institution": "DASA DevOps"
+                        },
+
+                        "nl": {
+                            "title": "DASA Devops",
+                            "description": "DASA DEVOPS Fundamentals",
+                            "institution": "DASA DevOpss"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.credly.com/badges/bb0cd386-7947-4f26-a76d-6397b2a372f6/linked_in_profile", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2022, "month": 5},
+                    "faIcon": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "ISTQB Software Testing",
+                            "description": "ISTQB Certified Tester – Foundation Level",
+                            "institution": "ISTQB"
+                        },
+
+                        "nl": {
+                            "title": "ISTQB Software Testing",
+                            "description": "ISTQB Gecertificeerde Tester – Foundation Level",
+                            "institution": "ISTQB"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://zertdb.isqi.org/en/download/certificate/token/EW57gHV5X--7wL_%24_6XS", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2023, "month": 2},
+                    "faIcon": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Contentful Certified",
+                            "description": "Contentful Certified Professional",
+                            "institution": "Contentful"
+                        },
+
+                        "nl": {
+                            "title": "{{Contentful}} Gecertificeerd",
+                            "description": "Contentful Gecertificeerde Professional",
+                            "institution": "Contentful"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.credly.com/badges/782b4d8b-18bb-4e1d-b5f9-220cb216964a/linked_in_profile", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
