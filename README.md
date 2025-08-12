@@ -1,7 +1,7 @@
 # Web CV - Chukwuemeka's Resume
 
 This is a modern, responsive web version of my CV built using clean and minimal template for building a resume landing page, powered by Vue 3 (Composition API) and Bootstrap 5. It serves as an interactive and accessible showcase of my professional experience, skills, education, and portfolio projects.
-> 📍 [Live Demo](https://your-deployment-link.com)
+> 📍 [Live Demo](https://chuksabadom.github.io/emeka-resume/)
 Key features:
 
 Uses Vue3 Composition API.
@@ -38,5 +38,5 @@ Super easy to customize!
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/chuksabadom/web-cv.git
+git clone https://github.com/chuksabadom/emeka-resume.git
 
